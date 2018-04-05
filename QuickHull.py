@@ -4,7 +4,7 @@ Created on Fri Feb 16 15:09:48 2018
 
 @author: Trace
 """
-
+#comment
 import numpy as np
 import math
 import matplotlib.pyplot as plt
